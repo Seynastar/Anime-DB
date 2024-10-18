@@ -1,6 +1,6 @@
 {
-    "db_user": "root",
-    "db_password": "Ganondorf09:",
-    "db_host": "localhost",
-    "db_name": "world"
+    "db_host": "dein_host",
+    "db_user": "dein_benutzername",
+    "db_password": "dein_passwort",
+    "db_name": "deine_datenbank"
 }
